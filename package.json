@@ -1,0 +1,28 @@
+{
+  "name": "ng2do-mean",
+  "version": "1.0.0",
+  "description": "getting hands dirty with ng2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitinreddy3/ng2do-mean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitinreddy3/ng2do-mean/issues"
+  },
+  "homepage": "https://github.com/nitinreddy3/ng2do-mean#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "mongojs": "^2.4.0",
+    "morgan": "^1.7.0",
+    "path": "^0.12.7"
+  }
+}
